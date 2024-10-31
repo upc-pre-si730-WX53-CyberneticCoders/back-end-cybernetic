@@ -3,3 +3,6 @@
 ## This project work the API of the project
 
 ### The objective is support to data about the web application.
+
+### Bounded Contexts:
+- Dish-Management
